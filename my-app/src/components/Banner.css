@@ -1,0 +1,11 @@
+#banner-text {
+    max-width: 35%;
+    text-align: right;
+    background-color: #0f0e16;
+}
+
+#banner-card {
+    color: #e5eaf5;
+    margin-top: 25%;
+    margin-left: 25%;
+}
